@@ -1,5 +1,7 @@
 # OpenPose scripts
 
+This project is a part of the **Introduction to Research** subject from the **Master in Advanced Telecommunications** at **Escola Tècnica Superior d'Enginyeria de Telecomunicació de Barcelona, ETSETB. Universitat Politecnica de Catalunya, UPC**.
+
 ## Description
 This repository contains some python scripts to perform 
 **human pose estimation** using the 
