@@ -1,9 +1,9 @@
 # Sign video classification 
 
-Two video classificatio menthods are presented:
+Two video classification menthods are presented:
 
 1. Extract features from each frame with a ConvNet, passing the sequence to an RNN, in a separate network
-1. Use a time-dstirbuted ConvNet, passing the features to an RNN, much like #2 but all in one network (this is the `lrcn` network in the code).
+1. Use a time-dstirbuted ConvNet, passing the features to an RNN (this is the `lrcn` network in the code).
 
 
 ## Requirements
